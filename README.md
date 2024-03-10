@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Natália Floriani Braga
 ---
 
-- 🔭 Cursando Ciencia da Computação na IFSC
+- 🔭 Cursando Ciência da Computação na IFSC
 - 🌱 Estudando html e java
 - 😄 Pronomes: ela/dela
 - 📇 Contate-me no e-mail: natalia.fb10@aluno.ifsc.edu.br
