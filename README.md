@@ -22,8 +22,8 @@
 <details>
   <summary> Mais sobre mim </summary>
   <p></p>
-  <p> -Tenho 19 anos</p>
-  <p> -Atualmente no 1° periodo de Ciência da Computação</p>
-  <p> -Experiência com robótica, java e portugol</p>
+  <p> - Tenho 19 anos</p>
+  <p> - Atualmente no 1° periodo de Ciência da Computação</p>
+  <p> - Experiência com robótica, java e portugol</p>
 </details>
 
